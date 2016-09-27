@@ -1,0 +1,2 @@
+%{"exprotobuf": {:hex, :exprotobuf, "1.2.0", "31e8d449b342cec3f35f95c2272e018dc1de669e5f5ef01845e5e488b164837c", [:mix], [{:gpb, "~> 3.24", [hex: :gpb, optional: false]}]},
+  "gpb": {:hex, :gpb, "3.26.1", "340217afc862bef7786b05d3a7b542dcb651319020c2dd04503dff1a4060f1f0", [:rebar, :make], []}}

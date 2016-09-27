@@ -27,6 +27,8 @@ defmodule GrpcExSample.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [
+      {:exprotobuf, "~> 1.2.0"}
+    ]
   end
 end
